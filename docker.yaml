@@ -1,5 +1,5 @@
 -  name:
-   hosts: prod
+   hosts: localhost
    become: true
    roles: 
      - docker
