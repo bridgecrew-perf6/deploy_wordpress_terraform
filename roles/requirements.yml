@@ -1,2 +1,2 @@
-- src: https://github.com/infradev4/docker_role.git
-- src: https://github.com/infradev4/wordpress_role.git
+- src: https://github.com/infradev4/roleDocker.git
+- src: https://github.com/infradev4/roleWordpress.git
