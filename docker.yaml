@@ -3,5 +3,8 @@
    hosts: localhost
    become: true
    roles: 
-     - docker
-     - wordpress
+     - docker_role
+     - wordpress_role
+     # before probleme
+     # - docker
+     # - wordpress
